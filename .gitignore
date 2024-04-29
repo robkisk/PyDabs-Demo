@@ -1,0 +1,10 @@
+.databricks/**
+!.databricks/generate-resources.sh
+build/
+dist/
+__pycache__/
+*.egg-info
+.venv/
+scratch/**
+!scratch/README.md
+resources/__generated__/

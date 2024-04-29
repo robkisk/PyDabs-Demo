@@ -1,0 +1,4 @@
+# library dependencies for your code
+
+requests
+cowsay==5.0.0
